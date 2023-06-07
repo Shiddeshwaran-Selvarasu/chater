@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "243867055343",
+    "project_id": "chatbot-f520d",
+    "storage_bucket": "chatbot-f520d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243867055343:android:c6129fa8e3fffaa942171a",
+        "android_client_info": {
+          "package_name": "com.example.chater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243867055343-qkd4kj3nv2jkioe2s2pgmirp05hvmqe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT0Cj974IISDdNO6RQIsrw0zgO8Tsmg1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243867055343-qkd4kj3nv2jkioe2s2pgmirp05hvmqe4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "243867055343-7f489o37fhhfnfna5g5if6rj6eun5h4h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.emessages.emessages"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
